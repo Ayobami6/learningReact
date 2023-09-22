@@ -1,0 +1,1191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"clg\tconsoleLog"
+			],
+			[
+				"raf",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"rcc",
+				"rcc\tReact: component skeleton"
+			],
+			[
+				"r",
+				"rfc\tFunctional Component"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"li",
+				"line_token"
+			],
+			[
+				"sta",
+				"status_code_count_map"
+			],
+			[
+				"lin",
+				"line_no"
+			],
+			[
+				"s",
+				"status_code"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"pas",
+				"paste"
+			],
+			[
+				"op",
+				"opened_boxes"
+			],
+			[
+				"cn",
+				"continue"
+			],
+			[
+				"open",
+				"opened_boxes"
+			],
+			[
+				"tod",
+				"todo_id"
+			],
+			[
+				"to",
+				"todo_router"
+			],
+			[
+				"pho",
+				"photo_data"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"M",
+				"MEDIA_ROOT"
+			],
+			[
+				"prdo",
+				"product"
+			],
+			[
+				"ase",
+				"assertIsNone"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"Produ",
+				"Product"
+			],
+			[
+				"ian",
+				"initial_product_count"
+			],
+			[
+				"A",
+				"APITestCase"
+			],
+			[
+				"por",
+				"product_params"
+			],
+			[
+				"is",
+				"is_on_sale"
+			],
+			[
+				"p",
+				"product_params"
+			],
+			[
+				"Ap",
+				"APITestCase"
+			],
+			[
+				"sal",
+				"sale_start"
+			],
+			[
+				"ma",
+				"max_value"
+			],
+			[
+				"min",
+				"min_value"
+			],
+			[
+				"Ca",
+				"ShoppingCartItemSerializer"
+			],
+			[
+				"S",
+				"ShoppingCartItem"
+			],
+			[
+				"Sho",
+				"ShoppingCartItem"
+			],
+			[
+				"de",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/tailwind.config.js",
+			"settings":
+			{
+				"buffer_size": 181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC1AAAAAAAAAH4AAAAvKiogQHR5cGUge2ltcG9ydCgndGFpbHdpbmRjc3MnKS5Db25maWd9ICovCmV4cG9ydCBkZWZhdWx0IHsKICBjb250ZW50OiBbXSwKICB0aGVtZTogewogICAgZXh0ZW5kOiB7fSwKICB9LAogIHBsdWdpbnM6IFtdLAp9Cgo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/index.css",
+			"settings":
+			{
+				"buffer_size": 58,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACrBAAAOnJvb3QgewogIGZvbnQtZmFtaWx5OiBJbnRlciwgc3lzdGVtLXVpLCBBdmVuaXIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7CiAgbGluZS1oZWlnaHQ6IDEuNTsKICBmb250LXdlaWdodDogNDAwOwoKICBjb2xvci1zY2hlbWU6IGxpZ2h0IGRhcms7CiAgY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC44Nyk7CiAgYmFja2dyb3VuZC1jb2xvcjogIzI0MjQyNDsKCiAgZm9udC1zeW50aGVzaXM6IG5vbmU7CiAgdGV4dC1yZW5kZXJpbmc6IG9wdGltaXplTGVnaWJpbGl0eTsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwogIC13ZWJraXQtdGV4dC1zaXplLWFkanVzdDogMTAwJTsKfQoKYSB7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBjb2xvcjogIzY0NmNmZjsKICB0ZXh0LWRlY29yYXRpb246IGluaGVyaXQ7Cn0KYTpob3ZlciB7CiAgY29sb3I6ICM1MzViZjI7Cn0KCmJvZHkgewogIG1hcmdpbjogMDsKICBkaXNwbGF5OiBmbGV4OwogIHBsYWNlLWl0ZW1zOiBjZW50ZXI7CiAgbWluLXdpZHRoOiAzMjBweDsKICBtaW4taGVpZ2h0OiAxMDB2aDsKfQoKaDEgewogIGZvbnQtc2l6ZTogMy4yZW07CiAgbGluZS1oZWlnaHQ6IDEuMTsKfQoKYnV0dG9uIHsKICBib3JkZXItcmFkaXVzOiA4cHg7CiAgYm9yZGVyOiAxcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgcGFkZGluZzogMC42ZW0gMS4yZW07CiAgZm9udC1zaXplOiAxZW07CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBmb250LWZhbWlseTogaW5oZXJpdDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWExYTFhOwogIGN1cnNvcjogcG9pbnRlcjsKICB0cmFuc2l0aW9uOiBib3JkZXItY29sb3IgMC4yNXM7Cn0KYnV0dG9uOmhvdmVyIHsKICBib3JkZXItY29sb3I6ICM2NDZjZmY7Cn0KYnV0dG9uOmZvY3VzLApidXR0b246Zm9jdXMtdmlzaWJsZSB7CiAgb3V0bGluZTogNHB4IGF1dG8gLXdlYmtpdC1mb2N1cy1yaW5nLWNvbG9yOwp9CgpAbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCkgewogIDpyb290IHsKICAgIGNvbG9yOiAjMjEzNTQ3OwogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICB9CiAgYTpob3ZlciB7CiAgICBjb2xvcjogIzc0N2JmZjsKICB9CiAgYnV0dG9uIHsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmOWY5Zjk7CiAgfQp9Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAKsEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/App.jsx",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACJAwAAaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKaW1wb3J0IHJlYWN0TG9nbyBmcm9tICcuL2Fzc2V0cy9yZWFjdC5zdmcnCmltcG9ydCB2aXRlTG9nbyBmcm9tICcvdml0ZS5zdmcnCmltcG9ydCAnLi9BcHAuY3NzJwoKZnVuY3Rpb24gQXBwKCkgewogIGNvbnN0IFtjb3VudCwgc2V0Q291bnRdID0gdXNlU3RhdGUoMCkKCiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxkaXY+CiAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly92aXRlanMuZGV2IiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICA8aW1nIHNyYz17dml0ZUxvZ299IGNsYXNzTmFtZT0ibG9nbyIgYWx0PSJWaXRlIGxvZ28iIC8+CiAgICAgICAgPC9hPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vcmVhY3QuZGV2IiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICA8aW1nIHNyYz17cmVhY3RMb2dvfSBjbGFzc05hbWU9ImxvZ28gcmVhY3QiIGFsdD0iUmVhY3QgbG9nbyIgLz4KICAgICAgICA8L2E+CiAgICAgIDwvZGl2PgogICAgICA8aDE+Vml0ZSArIFJlYWN0PC9oMT4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gc2V0Q291bnQoKGNvdW50KSA9PiBjb3VudCArIDEpfT4KICAgICAgICAgIGNvdW50IGlzIHtjb3VudH0KICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8cD4KICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qc3g8L2NvZGU+IGFuZCBzYXZlIHRvIHRlc3QgSE1SCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgICAgPHAgY2xhc3NOYW1lPSJyZWFkLXRoZS1kb2NzIj4KICAgICAgICBDbGljayBvbiB0aGUgVml0ZSBhbmQgUmVhY3QgbG9nb3MgdG8gbGVhcm4gbW9yZQogICAgICA8L3A+CiAgICA8Lz4KICApCn0KCmV4cG9ydCBkZWZhdWx0IEFwcAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAIkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAYQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "ra"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAYQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAAYQAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "cc"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAYwEAAAAAAAAAAQAAAAAAAAABAAAAYwAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "cc"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					67,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAYwEAAAAAAAAAAQAAAAAAAAABAAAAYwAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "raf"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					105,
+					1,
+					"insert_completion",
+					{
+						"completion": "import React from 'react'\n\nconst ${1:${TM_FILENAME/(.+)\\..+|.*/$1/:name}} = () => {\n\treturn (\n\t\t<div>\n\t\t\t$0\n\t\t</div>\n\t)\n}\n\nexport default ${1:${TM_FILENAME_BASE}}",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "rafc,rafce"
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcmFmAAAAAAAAAABvAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					117,
+					1,
+					"insert",
+					{
+						"characters": "pp"
+					},
+					"AgAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "lass"
+					},
+					"BAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "Nam"
+					},
+					"AwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					134,
+					8,
+					"left_delete",
+					null,
+					"CAAAAEoAAAAAAAAASgAAAAAAAAABAAAAbUkAAAAAAAAASQAAAAAAAAABAAAAYUgAAAAAAAAASAAAAAAAAAABAAAATkcAAAAAAAAARwAAAAAAAAABAAAAc0YAAAAAAAAARgAAAAAAAAABAAAAc0UAAAAAAAAARQAAAAAAAAABAAAAYUQAAAAAAAAARAAAAAAAAAABAAAAbEMAAAAAAAAAQwAAAAAAAAABAAAAYw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					136,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEIAAAAAAAAAQgAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					140,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEIAAAAAAAAAQgAAAAAAAAABAAAAYw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": "la"
+					},
+					"AgAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					148,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAAAAAAAAAEYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "N"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					154,
+					7,
+					"left_delete",
+					null,
+					"BwAAAEgAAAAAAAAASAAAAAAAAAABAAAATkcAAAAAAAAARwAAAAAAAAABAAAAc0YAAAAAAAAARgAAAAAAAAABAAAAc0UAAAAAAAAARQAAAAAAAAABAAAAYUQAAAAAAAAARAAAAAAAAAABAAAAbEMAAAAAAAAAQwAAAAAAAAABAAAAY0IAAAAAAAAAQgAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					180,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					182,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "lassN"
+					},
+					"BQAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					185,
+					1,
+					"insert",
+					{
+						"characters": "ame="
+					},
+					"BAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					187,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAE0AAAAAAAAATwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAAAAAAAAAE0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					191,
+					1,
+					"insert",
+					{
+						"characters": "b"
+					},
+					"AQAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAAAAAAAAAE4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					193,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABPAAAAAAAAAE8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": "red"
+					},
+					"AwAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					199,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": "400"
+					},
+					"AwAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABVAAAAAAAAAFUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					202,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYAAAAAAAAAFgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					204,
+					1,
+					"insert",
+					{
+						"characters": "text-"
+					},
+					"BQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAAAAAAAAAFkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					205,
+					1,
+					"insert",
+					{
+						"characters": "w"
+					},
+					"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					207,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					209,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF8AAAAAAAAAXwAAAAAAAAABAAAAaA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					211,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					213,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					215,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/main.jsx",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMQAAAAAAAAAxQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMYAAAAAAAAAxgAAAAAAAAABAAAAbMUAAAAAAAAAxQAAAAAAAAABAAAAY8QAAAAAAAAAxAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mom",
+				"Monokai Pro: select theme"
+			],
+			[
+				"mon",
+				"Monokai Pro: select theme"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ayo/Desktop/MERN_Stack",
+		"/home/ayo/Desktop/MERN_Stack/Book_store",
+		"/home/ayo/Desktop/MERN_Stack/Book_store/backend",
+		"/home/ayo/Desktop/MERN_Stack/Book_store/frontend",
+		"/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src"
+	],
+	"file_history":
+	[
+		"/home/ayo/.config/sublime-text/Packages/sublime-react-ide/ReactIDE.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/User/ReactIDE.sublime-settings",
+		"/home/ayo/Desktop/MERN_Stack/Book_store/backend/index.js",
+		"/home/ayo/Desktop/frontend/learningReact/.eslintrc.cjs",
+		"/home/ayo/Desktop/frontend/learningReact/src/App.jsx",
+		"/home/ayo/Desktop/build/Dockerfile",
+		"/home/ayo/Desktop/alx-interview/0x03-log_parsing/README.md",
+		"/home/ayo/Desktop/alx-interview/bash_crash.sh",
+		"/home/ayo/Desktop/alx-interview/0x03-log_parsing/0-stats.py",
+		"/home/ayo/Desktop/alx-interview/0x03-log_parsing/0-generator.py",
+		"/home/ayo/Desktop/scripts/generator.py",
+		"/home/ayo/Desktop/alx-interview/0x00-pascal_triangle/0-pascal_triangle.py",
+		"/home/ayo/Desktop/alx-interview/lockboxex.py",
+		"/home/ayo/Desktop/alx-interview/0x01-lockboxes/0-lockboxes.py",
+		"/home/ayo/Desktop/alx-interview/minimum.py",
+		"/home/ayo/Desktop/alx-interview/0-lockboxes.py",
+		"/home/ayo/Desktop/alx-interview/0x00-pascal_triangle/README.md",
+		"/home/ayo/Desktop/alx-higher_level_programming/0x12-javascript-warm_up/.eslintrc.js",
+		"/home/ayo/Desktop/learn_django/django_api/demo/demo/settings.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/api_views.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/serializers.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/tests.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/requirements.txt",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/tes.sh",
+		"/home/ayo/.config/sublime-text/Packages/WakaTime/WakaTime.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/User/WakaTime.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/User/AutoPep8.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/SublimeLinter-gcc/README.md",
+		"/home/ayo/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ayo/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ayo/Desktop/MERN_Stack"
+		},
+		{
+			"path": "/home/ayo/Desktop/learnNodejs/api"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/tailwind.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Tailwind CSS).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/ayo/Desktop/MERN_Stack/Book_store/frontend/src/main.jsx",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.Terminus":
+	{
+		"height": 225.0
+	},
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 131.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/workspaces/nodejs.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

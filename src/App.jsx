@@ -128,6 +128,7 @@ export function Github() {
           location={data.location}
           avatar={data.avatar_url}
         /> */}
+        {/* graphQl */}
         <div>
           {data.data.allLifts.map((lift, i) => (
             <Lift
